@@ -1,10 +1,7 @@
-# Dependencies
-import tweepy
-import json
-import time
+
 
 # Dependencies
-import pandas as pd
+
 import tweepy
 import time
 import json
@@ -45,7 +42,7 @@ i = 0
 
 while i < 5:
 
-    counter = random.randint(0, len(happy_quotes))
+    counter = random.randint(0, len(happy_quotes)-1)
     print(str(counter))
 
     # find the right quote to tweet
