@@ -4,7 +4,7 @@
 
 import tweepy
 import time
-import json
+
 import random
 
 # Twitter API Keys
@@ -24,7 +24,7 @@ happy_quotes = [
     "So you're scared and you're thinking tht maybe we ain't that young any more - Bruce Springsteen",
     "May you stay forever young. -- Bob Dylan",
     "If I knew the way I would take you home. - Grateful Dead",
-    "You could stand me up at the gates of hell But I won't back down. - Tom Petty,
+    "You could stand me up at the gates of hell But I won't back down. - Tom Petty",
      "Now and then it's good to pause in our pursuit of happiness and just be happy. - Guillaume Apollinaire"]
 # CODE GOES HERE
 # Create a function that tweets
