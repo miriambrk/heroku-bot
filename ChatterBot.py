@@ -21,7 +21,7 @@ api = tweepy.API(auth, parser=tweepy.parsers.JSONParser())
 # Quotes to Tweet
 happy_quotes = [
     "There is only one happiness in this life, to love and be loved. - George Sand",
-    "So you're scared and you're thinking tht maybe we ain't that young any more - Bruce Springsteen",
+    "So you're scared and you're thinking that maybe we ain't that young any more - Bruce Springsteen",
     "May you stay forever young. -- Bob Dylan",
     "If I knew the way I would take you home. - Grateful Dead",
     "You could stand me up at the gates of hell But I won't back down. - Tom Petty",
